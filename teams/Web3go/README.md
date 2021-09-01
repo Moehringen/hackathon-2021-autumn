@@ -35,9 +35,9 @@ Web3go 是一个开放的数据平台，专注于对 Polkadot, Ethereum等公
 
 - Kaurua Defi 项目可视化分析数据看板
 
-- Kusama 跨链资产分析
+- Kusama 跨链资产分析
 
-- moonbean 平行链数据分析
+- moonbean 平行链数据分析
 
 - 基于地址行为的标注系统
 
