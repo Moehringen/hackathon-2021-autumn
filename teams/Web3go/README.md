@@ -14,6 +14,9 @@ Web3go 是一个开放的数据平台，专注于对 Polkadot, Ethereum等公
 
 数据的解释和分析不应该掌握在某些中心化专业人员手中，所有人都应该从中受益。我们的愿景是建立一个基于 Polkadot等多条公链的数据分析基础设施、工具集和激励系统，任何人都可以发布和奖励相关数据任务。我们将建立一个开放和免费的数据平台，数据分析权和解释权将彻底的去中心化，区块链的每个参与者都可以享受到数据背后的价值所带来的红利。
 
+<br>
+
+
 ## 黑客松期间计划完成的事项
 
 
@@ -32,44 +35,74 @@ Web3go 是一个开放的数据平台，专注于对 Polkadot, Ethereum等公
 
 - Kaurua Defi 项目可视化分析数据看板
 
+- Kusama 跨链资产分析
+
+- moonbean 平行链数据分析
+
 - 基于地址行为的标注系统
 
-
+<br>
 
 
 
 ## 队员信息
+<br>
 
-卞云健/架构师 Github: [626680108@qq.com](https://github.com/bianyunjian) 
+**卞云健/架构师 Github: [626680108@qq.com](https://github.com/bianyunjian)**
+
+
 苏州大学计算机科学与技术学士
+
 资深软件架构师，Architect of Litentry 
+
 涉猎广泛,熟悉多种编程语言和开发框架
+
 擅长中心化分布式系统架构
+
 喜爱产品设计和业务调研
 
+<br>
 
-王敏琪/工程师  Github: https://github.com/wangminqi  
+**王敏琪/工程师  Github: https://github.com/wangminqi** 
+
 哥伦比亚大学金融数学硕士
+
 资深区块链工程师 Core Dev of Litentry
+
 以太solidity，波卡substrate开发者
+
 多个Defi，NFT项目合约核心开发者
 
+<br>
 
+**周蓉/运营市场 Github: melz@litentry.com** 
 
-周蓉/运营市场 Github: melz@litentry.com 
 加州大学伯克利分校法律硕士 BD&Community Director of Litentry
+
 区块链孵化和项目运营负责人， 运营 Litentry 6k+ 国际社区
+
 擅长技术写作、项目产品研究
 
-赵世豪/工程师  Github: [willzhaoshihao@gmail.com ](https://github.com/Shihao66) 
+<br>
+
+**赵世豪/工程师  Github: [willzhaoshihao@gmail.com ](https://github.com/Shihao66)** 
+
 多伦多大学计算机科学荣誉学士 Data Analyst of Litentry
+
 曾任世界500强金融企业开发工程师、技术系统分析师
+
 精通网页及移动端软件开发
+
 链上数据开发者
 
-丁浩/产品&工程师 Github: https://github.com/Moehringen  
+<br>
+
+**丁浩/产品&工程师 Github: https://github.com/Moehringen** 
+
 斯图加特大学计算机硕士
+
 工程师，区块链行业从业者，自2018年起从事公链的开发和欧洲区块链市场推广工作
+
 波卡生态项目Litentry早期发起人之一
 
 
